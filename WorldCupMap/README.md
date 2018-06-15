@@ -6,7 +6,7 @@
 - Cleaned version of data in EthByTract.csv
 
 #### Map of all 2018 World Cup Countries
-![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMap.png)
+![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMap1.png)
 
 #### Map of all 2018 World Cup Countries, excluding England
-![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMapExCountries.png)
+![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMap2ExCountries.png)
