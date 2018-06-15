@@ -5,8 +5,8 @@
 - Toronto StatsCan Shapefile in gct_000b11a_e.zip
 - Cleaned version of data in EthByTract.csv
 
-#### Map of all World Cup 2018 Countries
+#### Map of all 2018 World Cup Countries
 ![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMap.png)
 
-#### Map of all World Cup 2018 Countries, excluding England
+#### Map of all 2018 World Cup Countries, excluding England
 ![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMapExCountries.png)
