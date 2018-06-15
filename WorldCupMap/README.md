@@ -4,8 +4,8 @@
 - Code in ProduceMap.ipynb, ProduceMapExCountries.ipynb, DataImportAndClean.ipynb 
 - Toronto StatsCan Shapefile in gct_000b11a_e.zip
 
-Map of all World Cup 2018 Countries
+#### Map of all World Cup 2018 Countries
 ![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMap.png)
 
-Map of all World Cup 2018 Countries, excluding England
+#### Map of all World Cup 2018 Countries, excluding England
 ![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMapExCountries.png)
