@@ -3,6 +3,7 @@
 #### Code
 - Code in ProduceMap.ipynb, ProduceMapExCountries.ipynb, DataImportAndClean.ipynb 
 - Toronto StatsCan Shapefile in gct_000b11a_e.zip
+- Cleaned version of data in EthByTract.csv
 
 #### Map of all World Cup 2018 Countries
 ![alt text](https://raw.githubusercontent.com/daveveitch/Projects/master/WorldCupMap/WCMap.png)
